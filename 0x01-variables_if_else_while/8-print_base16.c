@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main: - entry Point
  * Description: prints numbers of base 16 in lowercase, followed by a new line
  * Return: always 0(Success)

@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main: -entry Point
  * Description: print all combinations of single digit
  * Return: always 0(Success)

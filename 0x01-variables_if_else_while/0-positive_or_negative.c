@@ -3,7 +3,7 @@
 #include <time.h>
 /* more headers go here */
 
-/*
+/**
  * main: - entry point
  * Return: always 0 (Success)
  */
