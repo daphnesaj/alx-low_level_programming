@@ -3,7 +3,9 @@
 
 /**
  * main - Entry Point
+ * 
  * Description: prints of alphabets in lowercase with putschar function
+ * 
  * Return: Always 0(Success)
  */
 

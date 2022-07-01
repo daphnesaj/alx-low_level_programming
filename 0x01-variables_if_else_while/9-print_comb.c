@@ -3,7 +3,9 @@
 
 /**
  * main: -Entry Point
+ * 
  * Description: print all combinations of single digit
+ * 
  * Return: Always 0(Success)
  */
 
