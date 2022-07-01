@@ -1,8 +1,11 @@
 #include <stdio.h>
+/* more headers go here */
+
 /**
- * main: - entry point
- * Return: always 0 (Success)
+ * main - Entry point
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int i;

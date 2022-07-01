@@ -1,8 +1,10 @@
 #include <stdio.h>
+/* more headers go here */
+
 /**
- * main: - entry Point
+ * main: - Entry Point
  * Description: prints all possible different combinations of two digits
- * Return: always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)

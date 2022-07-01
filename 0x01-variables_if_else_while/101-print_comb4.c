@@ -1,8 +1,10 @@
 #include <stdio.h>
+/* more headers go here */
+
 /**
- * main: - entry point
+ * main - Entry point
  * Description: prints all possible different combinations of three digits
- * Return: always 0(Success)
+ * Return: Always 0(Success)
  */
 
 int main(void)

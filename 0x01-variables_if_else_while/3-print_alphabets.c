@@ -1,7 +1,8 @@
 #include <stdio.h>
+/* more headers go here */
 
 /**
- * main - entry point
+ * main - Entry point
  * Return: Always 0 (Success)
  */
 

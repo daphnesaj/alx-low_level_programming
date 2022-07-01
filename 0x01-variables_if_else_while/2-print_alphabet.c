@@ -1,7 +1,8 @@
 #include <stdio.h>
+/* more headers go here */
 
 /**
- * main - entry Point
+ * main - Entry Point
  * Description: prints of alphabets in lowercase with putschar function
  * Return: Always 0(Success)
  */
