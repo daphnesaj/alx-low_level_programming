@@ -2,10 +2,8 @@
 /* more headers go here */
 
 /**
- * main: - Entry Point
- * 
+ * main - Entry Point
  * Description: prints all possible different combinations of two digits
- * 
  * Return: Always 0 (Success)
  */
 
