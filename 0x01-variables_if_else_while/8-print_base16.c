@@ -3,9 +3,7 @@
 
 /**
  * main - Entry Point
- * 
  * Description: prints numbers of base 16 in lowercase, followed by a new line
- * 
  * Return: Always 0(Success)
  */
 
